@@ -9,3 +9,5 @@
 8-James_Bond gives other users all permissions and none to owner and group owner
 9-John_Doe gives owner all permissions, read and execute to group owner and write and execute permissions to other users
 10-mirror_permissions gives hello same permissions as olleh
+11-directories_permissions adds execute permissions to all subdirectories of the working directory for all users
+12-directory_permissions creates a directory my_dir with mode 751
